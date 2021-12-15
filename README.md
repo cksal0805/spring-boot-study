@@ -1,4 +1,4 @@
-#spring-boot-study
+# spring-boot-study
 
 ### 해당 내용은 spring-boot 입문 강의를 듣고 정리한 내용입니다.
 
