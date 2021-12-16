@@ -2,7 +2,7 @@
 
 ### 해당 내용은 spring-boot 입문 강의를 듣고 정리한 내용입니다.
 
-### 저는 서버 개발자를 목표로 두고 공부하는 것은 아닙니다. 저는 프론트엔드 개발자이지만, 서버에 관심이 많고, 서버 개발자들과 조금 더 원활한 소통을 하고자 공부합니다!
+저는 서버 개발자를 목표로 두고 공부하는 것은 아닙니다. 저는 프론트엔드 개발자이지만, 서버에 관심이 많고, 서버 개발자들과 조금 더 원활한 소통을 하고자 공부합니다!
 
 *무단 복제를 금지합니다.
 
@@ -12,11 +12,12 @@
 
 😎 정리모음
 
-- [Mac OS 자바(jdk 11) 설치와 IntelliJ 설치](https://www.notion.so/Mac-OS-jdk-11-IntelliJ-af8056afdfbc445faae15eb646e82d40)
+- [Mac OS 자바(jdk 11) 설치와 IntelliJ 설치](https://skillful-limburger-539.notion.site/Mac-OS-jdk-11-IntelliJ-af8056afdfbc445faae15eb646e82d40)
 - [스프링 프로젝트 생성하기](https://skillful-limburger-539.notion.site/aecf8ed46cbf4c159da6332e911120f7)
-- [라이브러리 살펴보기](https://www.notion.so/3a4ae66c543541119542400623370f7d)
+- [라이브러리 살펴보기](https://skillful-limburger-539.notion.site/3a4ae66c543541119542400623370f7d)
 - [톰켓이란](https://skillful-limburger-539.notion.site/c701a7d1693944bb84edfe65549edd3a)
-- [View 환경 설정](https://www.notion.so/View-4d770ac9ca374983b6d1e30f200b4725)
+- [View 환경 설정](https://skillful-limburger-539.notion.site/View-4d770ac9ca374983b6d1e30f200b4725)
+- [정적 페이지, MVC, API](https://skillful-limburger-539.notion.site/MVC-API-4ab3903b0428404591b90d48f820dde5)
 
 
 
