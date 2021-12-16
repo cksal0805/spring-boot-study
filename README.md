@@ -11,7 +11,7 @@
 [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard)
 
 😎 정리모음
-
+- [Intellij 단축어 모음](https://skillful-limburger-539.notion.site/Intellij-464433034d514a078901a78d613e1f5c)
 - [Mac OS 자바(jdk 11) 설치와 IntelliJ 설치](https://skillful-limburger-539.notion.site/Mac-OS-jdk-11-IntelliJ-af8056afdfbc445faae15eb646e82d40)
 - [스프링 프로젝트 생성하기](https://skillful-limburger-539.notion.site/aecf8ed46cbf4c159da6332e911120f7)
 - [라이브러리 살펴보기](https://skillful-limburger-539.notion.site/3a4ae66c543541119542400623370f7d)
