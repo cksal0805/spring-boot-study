@@ -18,6 +18,7 @@
 - [톰켓이란](https://skillful-limburger-539.notion.site/c701a7d1693944bb84edfe65549edd3a)
 - [View 환경 설정](https://skillful-limburger-539.notion.site/View-4d770ac9ca374983b6d1e30f200b4725)
 - [정적 페이지, MVC, API](https://skillful-limburger-539.notion.site/MVC-API-4ab3903b0428404591b90d48f820dde5)
+- [DTO, DAO](https://skillful-limburger-539.notion.site/DTO-DAO-48da8b7cb447464eb42674a8761ec21c)
 
 
 
