@@ -23,4 +23,6 @@
 - [HashMap과 thread-safe](https://skillful-limburger-539.notion.site/HashMap-thread-safe-df7e3c57b7b7409880543f6f93242ab2)
 - [테스트 케이스 작성](https://skillful-limburger-539.notion.site/f514992bd35c4ee9a66aa43976496e23)
 
+### 👀 기타
+- [git ignore 안먹힐 때](https://skillful-limburger-539.notion.site/git-ignore-5bca9efeb9c2450dbd1077e9f44fec64)
 
