@@ -22,6 +22,7 @@
 - [DTO, DAO](https://skillful-limburger-539.notion.site/DTO-DAO-48da8b7cb447464eb42674a8761ec21c)
 - [HashMap과 thread-safe](https://skillful-limburger-539.notion.site/HashMap-thread-safe-df7e3c57b7b7409880543f6f93242ab2)
 - [테스트 케이스 작성](https://skillful-limburger-539.notion.site/f514992bd35c4ee9a66aa43976496e23)
+- [컴포넌트 스캔과 의존성 관리](https://skillful-limburger-539.notion.site/503a40ffe4ce42a9826e142fe983e58b)
 
 ### 👀 기타
 - [git ignore 안먹힐 때](https://skillful-limburger-539.notion.site/git-ignore-5bca9efeb9c2450dbd1077e9f44fec64)
