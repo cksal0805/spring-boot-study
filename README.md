@@ -26,4 +26,5 @@
 
 ### 👀 기타
 - [git ignore 안먹힐 때](https://skillful-limburger-539.notion.site/git-ignore-5bca9efeb9c2450dbd1077e9f44fec64)
+- [h2 DB Install](https://skillful-limburger-539.notion.site/h2-DB-Install-for-mac-9ba5d17e9b9749c6810542d44f6ff800)
 
